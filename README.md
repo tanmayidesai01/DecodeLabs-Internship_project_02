@@ -14,6 +14,8 @@ Key Areas Covered:
 • Summarized key insights and observations
 
 • Applied analytical thinking to understand the dataset better
+
 Skills: Data Analysis | Descriptive Statistics | Data Cleaning | EDA | Analytical Thinking
 This project helped me strengthen my practical understanding of data analysis and how raw data can be transformed into meaningful insights.
+
 #EDA #DataAnalytics #DataAnalysis #Python #DataScience #Analytics #Learning #DataAnalyst #Project#decodelab
